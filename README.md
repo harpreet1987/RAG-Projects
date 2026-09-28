@@ -1,3 +1,8 @@
+> 📌 **Note:** This repository is a fork of the original project by [kiran-001](https://github.com/kiran-001/RAG-Projects.git), used for learning and reference purposes. All credit for these projects goes to the original author. I'm using this to practice and build my own AI projects.
+
+---
+
+
 This repository showcases a collection of advanced chatbot projects that demonstrate **Question-Answering (Q&A)** and **Retrieval-Augmented Generation (RAG)** techniques with Large Language Models across various types of data sources. Each project focuses on integrating LLMs with different databases and tools (including vector databases, graph databases, SQL databases, and tabular data) to create intelligent Q&A systems. The projects serve as a proof of expertise in designing complex LLM-driven applications and are implemented using both OpenAI and Azure OpenAI services.
 
 ## Projects
